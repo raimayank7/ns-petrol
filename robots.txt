@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://petrol.niveshsahayak.in/sitemap.xml
